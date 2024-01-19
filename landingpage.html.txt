@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Landing Page</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Your Landing Page</h1>
+        <p>Welcome to a world of creativity!</p>
+    </header>
+
+    <!-- Main Content Section -->
+    <section id="main-content">
+        <div class="feature">
+            <h2>Feature 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget felis nec urna suscipit dignissim.</p>
+        </div>
+
+        <div class="feature">
+            <h2>Feature 2</h2>
+            <p>Phasellus in turpis id diam fringilla accumsan. Vivamus at justo a orci aliquam feugiat ut et justo.</p>
+        </div>
+
+        <div class="feature">
+            <h2>Feature 3</h2>
+            <p>Proin euismod, ligula ac dignissim fermentum, libero justo dapibus tortor, at luctus justo quam vel dolor.</p>
+        </div>
+    </section>
+
+    <!-- Call-to-Action Section -->
+    <section id="cta">
+        <h2>Join Us Today!</h2>
+        <p>Discover the amazing world of creativity. Sign up now for exclusive access.</p>
+        <button>Sign Up</button>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Your Landing Page. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
